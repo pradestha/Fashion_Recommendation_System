@@ -25,3 +25,6 @@ Image Similarity Matching
 - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 - Frontend: Streamlit for interactive UI
 - Dataset: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+- Sample Image:
+- ![WhatsApp Image 2025-06-02 at 23 27 14_9763d2e1](https://github.com/user-attachments/assets/b360f829-a8a9-4ed2-aac8-bee1f23cede7)
+
